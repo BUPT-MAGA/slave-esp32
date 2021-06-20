@@ -489,30 +489,6 @@
     <ClCompile Include="lv_examples\src\lv_ex_widgets\lv_ex_win\lv_ex_win_1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lv_examples\src\lv_gui\air_slave.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lv_examples\src\lv_gui\dinpro_144.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lv_examples\src\lv_gui\lv_gui.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lv_examples\src\lv_gui\lv_gui_ctrl.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lv_examples\src\lv_gui\lv_gui_login.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lv_examples\src\lv_gui\symbol_36.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lv_examples\src\my_air\my_air.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lv_examples\src\my_demo\my_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="lvgl\examples\porting\lv_port_disp_template.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -1017,24 +993,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="lv_examples\src\lv_ex_widgets\lv_ex_widgets.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="lv_examples\src\lv_gui\air_slave.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="lv_examples\src\lv_gui\lv_gui.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="lv_examples\src\lv_gui\lv_gui_ctrl.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="lv_examples\src\lv_gui\lv_gui_login.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="lv_examples\src\my_air\my_air.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="lv_examples\src\my_demo\my_demo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="lv_examples\src\lv_examples.h">

@@ -40,9 +40,6 @@ extern "C" {
 #include "src/lv_demo_keypad_encoder/lv_demo_keypad_encoder.h"
 #include "src/lv_demo_printer/lv_demo_printer.h"
 #include "src/lv_demo_music/lv_demo_music.h"
-#include "src/my_demo/my_demo.h"
-#include "src/my_air/my_air.h"
-#include "src/lv_gui/lv_gui.h"
 
 /*********************
  *      DEFINES

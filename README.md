@@ -52,6 +52,22 @@ idf.py -p <PORT> flash
 
 ### Visual Studio模拟器配置
 
-代码中还附带了一个Visual Studio的模拟器，可以在不使用ESP32开发板的情况下演示LVGL图形界面的效果，使用时需要先将
+代码中还附带了一个Visual Studio的模拟器，可以在不使用ESP32开发板的情况下演示LVGL图形界面的效果，使用时只需要在Visual Studio中打开simulator/lv_sim_visual_studio_sdl.sln工程文件运行即可。
 
 ### 效果演示
+
+登录界面1
+
+![登录界面1](./assets/登录界面1.jpg)
+
+登录界面2
+
+![登录界面2](./assets/登录界面2.jpg)
+
+加载界面
+
+![加载界面](./assets/加载界面.jpg)
+
+控制面板界面
+
+![控制面板界面](./assets/控制面板界面.jpg)

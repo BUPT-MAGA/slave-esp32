@@ -421,14 +421,6 @@
     <ClCompile Include="lv_examples\src\lv_ex_widgets\lv_ex_textarea\lv_ex_textarea_3.c" />
     <ClCompile Include="lv_examples\src\lv_ex_widgets\lv_ex_tileview\lv_ex_tileview_1.c" />
     <ClCompile Include="lv_examples\src\lv_ex_widgets\lv_ex_win\lv_ex_win_1.c" />
-    <ClCompile Include="lv_examples\src\lv_gui\air_slave.c" />
-    <ClCompile Include="lv_examples\src\lv_gui\dinpro_144.c" />
-    <ClCompile Include="lv_examples\src\lv_gui\lv_gui.c" />
-    <ClCompile Include="lv_examples\src\lv_gui\lv_gui_ctrl.c" />
-    <ClCompile Include="lv_examples\src\lv_gui\lv_gui_login.c" />
-    <ClCompile Include="lv_examples\src\lv_gui\symbol_36.c" />
-    <ClCompile Include="lv_examples\src\my_air\my_air.c" />
-    <ClCompile Include="lv_examples\src\my_demo\my_demo.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
@@ -582,13 +574,7 @@
     <ClInclude Include="lv_examples\src\lv_ex_get_started\lv_ex_get_started.h" />
     <ClInclude Include="lv_examples\src\lv_ex_style\lv_ex_style.h" />
     <ClInclude Include="lv_examples\src\lv_ex_widgets\lv_ex_widgets.h" />
-    <ClInclude Include="lv_examples\src\lv_gui\air_slave.h" />
-    <ClInclude Include="lv_examples\src\lv_gui\lv_gui.h" />
-    <ClInclude Include="lv_examples\src\lv_gui\lv_gui_ctrl.h" />
     <ClInclude Include="lv_examples\src\lv_gui\lv_gui_loader.h" />
-    <ClInclude Include="lv_examples\src\lv_gui\lv_gui_login.h" />
-    <ClInclude Include="lv_examples\src\my_air\my_air.h" />
-    <ClInclude Include="lv_examples\src\my_demo\my_demo.h" />
     <ClInclude Include="lv_ex_conf.h" />
   </ItemGroup>
   <ItemGroup>
