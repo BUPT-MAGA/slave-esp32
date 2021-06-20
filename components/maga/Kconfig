@@ -1,0 +1,9 @@
+
+menu "MAGA configuration"
+
+    config MAGA_WS_SERVER_URI_BASE
+        string
+        prompt "Maga central server URI with port"
+        default "ws://123.60.215.79:8000/ws/"
+
+endmenu
